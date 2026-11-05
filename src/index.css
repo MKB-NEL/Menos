@@ -2,7 +2,10 @@
 
 @theme {
   --color-black: #000000;
+  --color-ink: #050505;
   --color-charcoal: #0A0A0A;
+  --color-primary: #00FF66;
+  --color-primary-glow: rgba(0, 255, 102, 0.35);
   --color-neon: #39FF14;
   --color-neon-dim: #2bcc10;
   --color-white: #FFFFFF;
